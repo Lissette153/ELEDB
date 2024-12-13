@@ -1,6 +1,7 @@
 En este proyecto, se busca resolver la problematica 'Desorganización de información' Para una empresa de amplificación y sonido. En la cual desarrollamos una aplicación web que incluye lo siguiente:
 Login autenticado.
 Servidor web en AWS.
+Base de datos en AWS.
 
 Si el usuario es administrador se habilita las siguientes funciones: 
 -1. Gestión de eventos (registro, modificación, eliminación y visualización).
