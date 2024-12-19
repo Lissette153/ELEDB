@@ -18,3 +18,5 @@ Si el usuario es trabajador se habilita las siguientes funciones:
 -1. Visualización de eventos.
 
 Puede revisar la documentación agregada al archivo para revisar los diagramas, manual de usuario, pruebas integrales y de sistemas y el diseño de arquitectura. 
+
+Realizado por: Lissette Ocampo, Julián Vargas y Vircof Rocha.
